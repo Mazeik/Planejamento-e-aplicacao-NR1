@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+~$*.xlsx
+_prints_temp.xlsx
+.DS_Store
